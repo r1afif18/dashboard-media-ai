@@ -1,0 +1,201 @@
+Date,Platform,Sentiment,Location,Engagements,Media_Type,Influencer,Brand,Post_Type
+2023-12-06,TikTok,Positive,Yogyakarta,12103,Text,@snackattack,Spirifi,Promo
+2023-12-15,YouTube,Neutral,Medan,3691,Video,@drinkculture,Spirifi,Product Launch
+2023-12-09,X/Twitter,Neutral,Bandung,499,Carousel,@snackattack,Spirifi,Collab
+2023-12-09,TikTok,Neutral,Jakarta,2241,Image,@kulinerhits,Spirifi,Collab
+2023-12-02,X/Twitter,Neutral,Makassar,8620,Image,@genzfoodie,Spirifi,Behind the Scenes
+2023-12-04,X/Twitter,Positive,Makassar,1615,Image,@tastebuds.id,Spirifi,Review
+2023-12-28,YouTube,Neutral,Makassar,17574,Video,@drinkculture,Spirifi,Product Launch
+2023-12-18,X/Twitter,Neutral,Makassar,9647,Carousel,@tastebuds.id,Spirifi,Behind the Scenes
+2023-12-25,TikTok,Neutral,Denpasar,12657,Image,@kulinerhits,Spirifi,Behind the Scenes
+2023-12-05,X/Twitter,Positive,Denpasar,12460,Text,@tastebuds.id,Spirifi,Behind the Scenes
+2023-12-04,TikTok,Positive,Yogyakarta,208,Video,@snackattack,Spirifi,Product Launch
+2023-12-30,Instagram,Neutral,Bandung,13767,Carousel,@snackattack,Spirifi,Behind the Scenes
+2023-12-06,Instagram,Positive,Denpasar,17626,Image,@snackattack,Spirifi,Product Launch
+2023-12-15,Instagram,Positive,Denpasar,275,Video,@genzfoodie,Spirifi,Product Launch
+2023-12-12,X/Twitter,Positive,Bandung,6774,Carousel,@drinkculture,Spirifi,Behind the Scenes
+2023-12-02,Instagram,Positive,Surabaya,17165,Image,@kulinerhits,Spirifi,Review
+2023-12-14,TikTok,Positive,Jakarta,2315,Carousel,@drinkculture,Spirifi,Product Launch
+2023-12-29,TikTok,Negative,Bandung,19493,Carousel,@genzfoodie,Spirifi,Collab
+2023-12-30,TikTok,Positive,Bandung,1152,Carousel,@tastebuds.id,Spirifi,Collab
+2023-12-10,Instagram,Positive,Makassar,19320,Image,@genzfoodie,Spirifi,Product Launch
+2023-12-22,TikTok,Positive,Yogyakarta,9999,Video,@genzfoodie,Spirifi,Product Launch
+2023-12-22,X/Twitter,Negative,Bandung,19244,Video,@kulinerhits,Spirifi,Product Launch
+2023-12-18,X/Twitter,Positive,Denpasar,13174,Image,@genzfoodie,Spirifi,Product Launch
+2023-12-25,Instagram,Negative,Makassar,15578,Text,@drinkculture,Spirifi,Product Launch
+2023-12-14,X/Twitter,Negative,Surabaya,9490,Text,@drinkculture,Spirifi,Promo
+2023-12-20,Instagram,Neutral,Jakarta,10664,Video,@kulinerhits,Spirifi,Behind the Scenes
+2023-12-26,X/Twitter,Negative,Bandung,18781,Text,@kulinerhits,Spirifi,Product Launch
+2023-12-24,YouTube,Positive,Bandung,2128,Carousel,@genzfoodie,Spirifi,Product Launch
+2023-12-21,TikTok,Positive,Surabaya,5339,Image,@genzfoodie,Spirifi,Collab
+2023-12-23,Instagram,Neutral,Surabaya,6172,Text,@genzfoodie,Spirifi,Collab
+2023-12-24,TikTok,Positive,Bandung,12698,Image,@kulinerhits,Spirifi,Collab
+2023-12-21,YouTube,Positive,Bandung,16758,Carousel,@tastebuds.id,Spirifi,Promo
+2023-12-07,YouTube,Neutral,Yogyakarta,19903,Image,@drinkculture,Spirifi,Review
+2023-12-29,TikTok,Positive,Surabaya,4455,Carousel,@snackattack,Spirifi,Review
+2023-12-15,Instagram,Neutral,Yogyakarta,7642,Carousel,@genzfoodie,Spirifi,Promo
+2023-12-09,Instagram,Positive,Jakarta,5661,Text,@genzfoodie,Spirifi,Review
+2023-12-25,X/Twitter,Positive,Yogyakarta,9158,Image,@snackattack,Spirifi,Review
+2023-12-17,TikTok,Neutral,Jakarta,12812,Image,@kulinerhits,Spirifi,Collab
+2023-12-10,YouTube,Positive,Surabaya,15673,Carousel,@genzfoodie,Spirifi,Promo
+2023-12-19,X/Twitter,Positive,Surabaya,8159,Text,@kulinerhits,Spirifi,Promo
+2023-12-16,YouTube,Positive,Denpasar,10945,Carousel,@tastebuds.id,Spirifi,Collab
+2023-12-26,YouTube,Negative,Denpasar,18557,Text,@genzfoodie,Spirifi,Product Launch
+2023-12-11,YouTube,Positive,Bandung,3387,Video,@snackattack,Spirifi,Behind the Scenes
+2023-12-15,Instagram,Neutral,Denpasar,7337,Image,@kulinerhits,Spirifi,Behind the Scenes
+2023-12-15,YouTube,Positive,Bandung,17224,Text,@genzfoodie,Spirifi,Promo
+2023-12-22,YouTube,Positive,Medan,13369,Carousel,@drinkculture,Spirifi,Review
+2023-12-15,X/Twitter,Positive,Jakarta,15192,Image,@genzfoodie,Spirifi,Behind the Scenes
+2023-12-26,Instagram,Positive,Yogyakarta,17604,Text,@drinkculture,Spirifi,Product Launch
+2023-12-13,TikTok,Negative,Bandung,16226,Video,@snackattack,Spirifi,Collab
+2023-12-25,Instagram,Positive,Denpasar,14055,Image,@snackattack,Spirifi,Behind the Scenes
+2023-12-21,X/Twitter,Positive,Yogyakarta,13851,Image,@kulinerhits,Spirifi,Review
+2023-12-22,YouTube,Positive,Jakarta,14983,Text,@tastebuds.id,Spirifi,Review
+2023-12-25,Instagram,Positive,Makassar,3986,Image,@genzfoodie,Spirifi,Promo
+2023-12-10,X/Twitter,Positive,Medan,8563,Carousel,@tastebuds.id,Spirifi,Behind the Scenes
+2023-12-09,X/Twitter,Neutral,Bandung,3945,Video,@drinkculture,Spirifi,Collab
+2023-12-13,TikTok,Positive,Surabaya,18516,Image,@genzfoodie,Spirifi,Behind the Scenes
+2023-12-03,Instagram,Positive,Makassar,6938,Carousel,@kulinerhits,Spirifi,Collab
+2023-12-10,TikTok,Neutral,Yogyakarta,17900,Text,@snackattack,Spirifi,Behind the Scenes
+2023-12-23,Instagram,Neutral,Medan,16300,Image,@drinkculture,Spirifi,Product Launch
+2023-12-30,TikTok,Neutral,Jakarta,15930,Image,@drinkculture,Spirifi,Behind the Scenes
+2023-12-27,Instagram,Positive,Denpasar,7540,Text,@tastebuds.id,Spirifi,Product Launch
+2023-12-23,YouTube,Neutral,Jakarta,9891,Image,@kulinerhits,Spirifi,Promo
+2023-12-23,X/Twitter,Positive,Surabaya,16957,Image,@genzfoodie,Spirifi,Product Launch
+2023-12-15,Instagram,Positive,Bandung,14085,Text,@genzfoodie,Spirifi,Promo
+2023-12-23,TikTok,Positive,Surabaya,18643,Video,@snackattack,Spirifi,Review
+2023-12-06,TikTok,Neutral,Makassar,11065,Image,@kulinerhits,Spirifi,Behind the Scenes
+2023-12-01,X/Twitter,Neutral,Surabaya,16222,Image,@snackattack,Spirifi,Promo
+2023-12-22,TikTok,Positive,Jakarta,9257,Text,@snackattack,Spirifi,Promo
+2023-12-22,Instagram,Positive,Jakarta,12881,Carousel,@genzfoodie,Spirifi,Promo
+2023-12-15,X/Twitter,Neutral,Bandung,12780,Image,@drinkculture,Spirifi,Product Launch
+2023-12-22,TikTok,Neutral,Bandung,4408,Video,@drinkculture,Spirifi,Collab
+2023-12-11,TikTok,Positive,Makassar,4808,Carousel,@snackattack,Spirifi,Collab
+2023-12-16,Instagram,Positive,Jakarta,11548,Carousel,@kulinerhits,Spirifi,Promo
+2023-12-25,X/Twitter,Positive,Denpasar,11039,Carousel,@drinkculture,Spirifi,Promo
+2023-12-22,YouTube,Neutral,Yogyakarta,16397,Carousel,@kulinerhits,Spirifi,Collab
+2023-12-15,YouTube,Neutral,Makassar,14714,Image,@drinkculture,Spirifi,Collab
+2023-12-05,YouTube,Neutral,Denpasar,13627,Video,@snackattack,Spirifi,Collab
+2023-12-09,Instagram,Positive,Bandung,2958,Text,@kulinerhits,Spirifi,Review
+2023-12-03,TikTok,Positive,Bandung,8890,Image,@genzfoodie,Spirifi,Behind the Scenes
+2023-12-28,YouTube,Neutral,Medan,10249,Text,@tastebuds.id,Spirifi,Review
+2023-12-18,X/Twitter,Neutral,Yogyakarta,16949,Text,@tastebuds.id,Spirifi,Collab
+2023-12-28,Instagram,Positive,Bandung,1433,Image,@snackattack,Spirifi,Review
+2023-12-28,X/Twitter,Positive,Makassar,7359,Carousel,@tastebuds.id,Spirifi,Collab
+2023-12-12,X/Twitter,Positive,Bandung,19704,Carousel,@kulinerhits,Spirifi,Product Launch
+2023-12-22,X/Twitter,Negative,Denpasar,11510,Text,@genzfoodie,Spirifi,Collab
+2023-12-07,TikTok,Positive,Bandung,918,Text,@drinkculture,Spirifi,Collab
+2023-12-17,YouTube,Neutral,Bandung,14010,Carousel,@tastebuds.id,Spirifi,Behind the Scenes
+2023-12-30,X/Twitter,Positive,Jakarta,9266,Carousel,@drinkculture,Spirifi,Behind the Scenes
+2023-12-08,TikTok,Positive,Jakarta,17753,Image,@tastebuds.id,Spirifi,Collab
+2023-12-02,Instagram,Positive,Denpasar,13783,Text,@genzfoodie,Spirifi,Behind the Scenes
+2023-12-20,Instagram,Neutral,Surabaya,4697,Video,@snackattack,Spirifi,Review
+2023-12-14,YouTube,Neutral,Jakarta,2632,Video,@kulinerhits,Spirifi,Collab
+2023-12-17,Instagram,Positive,Yogyakarta,15894,Text,@snackattack,Spirifi,Collab
+2023-12-07,YouTube,Positive,Denpasar,9756,Text,@drinkculture,Spirifi,Collab
+2023-12-12,X/Twitter,Positive,Surabaya,12471,Carousel,@kulinerhits,Spirifi,Review
+2023-12-21,Instagram,Negative,Denpasar,4350,Video,@kulinerhits,Spirifi,Review
+2023-12-08,X/Twitter,Positive,Yogyakarta,16802,Image,@tastebuds.id,Spirifi,Collab
+2023-12-27,X/Twitter,Positive,Jakarta,19003,Carousel,@tastebuds.id,Spirifi,Review
+2023-12-10,TikTok,Neutral,Surabaya,2251,Video,@drinkculture,Spirifi,Collab
+2023-12-10,X/Twitter,Positive,Jakarta,175,Carousel,@drinkculture,Spirifi,Promo
+2023-12-12,TikTok,Negative,Bandung,8197,Image,@genzfoodie,Spirifi,Review
+2023-12-01,YouTube,Positive,Makassar,15240,Carousel,@snackattack,Spirifi,Product Launch
+2023-12-05,Instagram,Positive,Bandung,1148,Image,@kulinerhits,Spirifi,Behind the Scenes
+2023-12-10,Instagram,Neutral,Medan,13497,Video,@kulinerhits,Spirifi,Review
+2023-12-23,X/Twitter,Neutral,Jakarta,6663,Video,@genzfoodie,Spirifi,Promo
+2023-12-01,YouTube,Neutral,Denpasar,13694,Video,@drinkculture,Spirifi,Behind the Scenes
+2023-12-27,TikTok,Positive,Medan,2251,Carousel,@genzfoodie,Spirifi,Collab
+2023-12-03,Instagram,Positive,Yogyakarta,4139,Carousel,@genzfoodie,Spirifi,Review
+2023-12-24,Instagram,Positive,Denpasar,10413,Video,@kulinerhits,Spirifi,Behind the Scenes
+2023-12-27,YouTube,Positive,Surabaya,10773,Carousel,@tastebuds.id,Spirifi,Review
+2023-12-29,Instagram,Neutral,Surabaya,13646,Video,@tastebuds.id,Spirifi,Review
+2023-12-05,Instagram,Neutral,Makassar,18150,Image,@genzfoodie,Spirifi,Behind the Scenes
+2023-12-13,Instagram,Positive,Bandung,10155,Text,@drinkculture,Spirifi,Product Launch
+2023-12-10,Instagram,Neutral,Medan,1621,Carousel,@tastebuds.id,Spirifi,Promo
+2023-12-15,X/Twitter,Neutral,Yogyakarta,7020,Text,@drinkculture,Spirifi,Promo
+2023-12-08,X/Twitter,Positive,Medan,13343,Video,@snackattack,Spirifi,Product Launch
+2023-12-13,TikTok,Positive,Makassar,12317,Text,@tastebuds.id,Spirifi,Behind the Scenes
+2023-12-29,TikTok,Neutral,Bandung,18569,Carousel,@kulinerhits,Spirifi,Review
+2023-12-05,YouTube,Neutral,Medan,11926,Carousel,@genzfoodie,Spirifi,Review
+2023-12-01,YouTube,Neutral,Medan,5200,Image,@tastebuds.id,Spirifi,Promo
+2023-12-06,YouTube,Negative,Denpasar,1659,Text,@genzfoodie,Spirifi,Product Launch
+2023-12-18,X/Twitter,Positive,Makassar,3985,Video,@drinkculture,Spirifi,Promo
+2023-12-30,TikTok,Neutral,Medan,15507,Image,@snackattack,Spirifi,Promo
+2023-12-12,Instagram,Neutral,Makassar,6774,Text,@drinkculture,Spirifi,Review
+2023-12-31,Instagram,Positive,Yogyakarta,11757,Video,@kulinerhits,Spirifi,Product Launch
+2023-12-11,Instagram,Neutral,Makassar,18233,Carousel,@tastebuds.id,Spirifi,Behind the Scenes
+2023-12-03,X/Twitter,Neutral,Medan,14902,Image,@tastebuds.id,Spirifi,Review
+2023-12-25,YouTube,Neutral,Denpasar,7160,Image,@snackattack,Spirifi,Product Launch
+2023-12-01,TikTok,Positive,Bandung,16144,Image,@genzfoodie,Spirifi,Promo
+2023-12-25,Instagram,Neutral,Yogyakarta,1392,Video,@tastebuds.id,Spirifi,Collab
+2023-12-10,Instagram,Positive,Makassar,14752,Text,@drinkculture,Spirifi,Product Launch
+2023-12-10,Instagram,Negative,Makassar,7730,Text,@drinkculture,Spirifi,Behind the Scenes
+2023-12-02,Instagram,Positive,Medan,15786,Video,@genzfoodie,Spirifi,Product Launch
+2023-12-20,TikTok,Positive,Yogyakarta,4312,Carousel,@tastebuds.id,Spirifi,Product Launch
+2023-12-13,X/Twitter,Positive,Bandung,1445,Text,@tastebuds.id,Spirifi,Review
+2023-12-21,TikTok,Positive,Bandung,15690,Text,@snackattack,Spirifi,Collab
+2023-12-23,Instagram,Positive,Bandung,17336,Video,@tastebuds.id,Spirifi,Behind the Scenes
+2023-12-21,TikTok,Neutral,Jakarta,13411,Text,@drinkculture,Spirifi,Collab
+2023-12-17,YouTube,Positive,Surabaya,11999,Image,@genzfoodie,Spirifi,Review
+2023-12-19,X/Twitter,Positive,Bandung,2143,Text,@tastebuds.id,Spirifi,Product Launch
+2023-12-07,Instagram,Positive,Makassar,17871,Carousel,@genzfoodie,Spirifi,Promo
+2023-12-27,TikTok,Neutral,Yogyakarta,9114,Carousel,@genzfoodie,Spirifi,Promo
+2023-12-20,Instagram,Positive,Denpasar,12462,Video,@drinkculture,Spirifi,Collab
+2023-12-01,Instagram,Neutral,Yogyakarta,8917,Image,@tastebuds.id,Spirifi,Product Launch
+2023-12-22,TikTok,Neutral,Yogyakarta,4742,Image,@drinkculture,Spirifi,Collab
+2023-12-28,YouTube,Positive,Surabaya,4646,Carousel,@snackattack,Spirifi,Collab
+2023-12-16,Instagram,Positive,Jakarta,5206,Carousel,@snackattack,Spirifi,Promo
+2023-12-22,Instagram,Neutral,Jakarta,11261,Image,@kulinerhits,Spirifi,Collab
+2023-12-31,X/Twitter,Neutral,Surabaya,10275,Video,@drinkculture,Spirifi,Promo
+2023-12-18,TikTok,Positive,Jakarta,10754,Text,@kulinerhits,Spirifi,Product Launch
+2023-12-06,YouTube,Neutral,Denpasar,909,Image,@snackattack,Spirifi,Promo
+2023-12-14,TikTok,Positive,Medan,7675,Text,@drinkculture,Spirifi,Collab
+2023-12-27,X/Twitter,Negative,Medan,12577,Carousel,@tastebuds.id,Spirifi,Review
+2023-12-13,X/Twitter,Positive,Medan,15931,Video,@kulinerhits,Spirifi,Collab
+2023-12-17,X/Twitter,Positive,Surabaya,8269,Text,@drinkculture,Spirifi,Promo
+2023-12-07,YouTube,Positive,Makassar,12264,Carousel,@snackattack,Spirifi,Product Launch
+2023-12-03,YouTube,Positive,Denpasar,6631,Video,@genzfoodie,Spirifi,Collab
+2023-12-27,YouTube,Neutral,Denpasar,13528,Text,@kulinerhits,Spirifi,Promo
+2023-12-21,X/Twitter,Positive,Makassar,15058,Text,@kulinerhits,Spirifi,Behind the Scenes
+2023-12-14,YouTube,Negative,Jakarta,11938,Text,@kulinerhits,Spirifi,Behind the Scenes
+2023-12-11,X/Twitter,Neutral,Yogyakarta,7118,Carousel,@genzfoodie,Spirifi,Promo
+2023-12-13,Instagram,Neutral,Surabaya,19056,Video,@genzfoodie,Spirifi,Promo
+2023-12-23,YouTube,Neutral,Denpasar,9492,Text,@drinkculture,Spirifi,Review
+2023-12-05,X/Twitter,Positive,Denpasar,9678,Carousel,@tastebuds.id,Spirifi,Collab
+2023-12-05,Instagram,Neutral,Yogyakarta,13531,Carousel,@genzfoodie,Spirifi,Product Launch
+2023-12-17,X/Twitter,Positive,Yogyakarta,15365,Video,@genzfoodie,Spirifi,Review
+2023-12-18,Instagram,Neutral,Yogyakarta,11582,Text,@drinkculture,Spirifi,Collab
+2023-12-14,Instagram,Positive,Surabaya,10741,Image,@kulinerhits,Spirifi,Behind the Scenes
+2023-12-06,Instagram,Positive,Denpasar,7244,Image,@tastebuds.id,Spirifi,Collab
+2023-12-30,Instagram,Positive,Medan,17494,Text,@genzfoodie,Spirifi,Promo
+2023-12-09,TikTok,Positive,Denpasar,10175,Text,@tastebuds.id,Spirifi,Review
+2023-12-17,Instagram,Neutral,Bandung,9314,Image,@kulinerhits,Spirifi,Collab
+2023-12-10,YouTube,Negative,Makassar,18777,Text,@tastebuds.id,Spirifi,Collab
+2023-12-05,TikTok,Neutral,Makassar,6908,Image,@snackattack,Spirifi,Collab
+2023-12-16,X/Twitter,Positive,Bandung,19195,Carousel,@snackattack,Spirifi,Promo
+2023-12-19,Instagram,Negative,Makassar,5580,Image,@genzfoodie,Spirifi,Behind the Scenes
+2023-12-21,TikTok,Positive,Yogyakarta,4464,Carousel,@tastebuds.id,Spirifi,Review
+2023-12-24,Instagram,Positive,Medan,225,Video,@genzfoodie,Spirifi,Review
+2023-12-20,TikTok,Positive,Yogyakarta,17476,Text,@drinkculture,Spirifi,Review
+2023-12-07,Instagram,Neutral,Denpasar,7694,Image,@genzfoodie,Spirifi,Product Launch
+2023-12-13,X/Twitter,Positive,Bandung,1687,Text,@tastebuds.id,Spirifi,Review
+2023-12-18,Instagram,Positive,Denpasar,6592,Carousel,@tastebuds.id,Spirifi,Promo
+2023-12-28,YouTube,Positive,Medan,240,Carousel,@tastebuds.id,Spirifi,Review
+2023-12-25,TikTok,Positive,Bandung,5369,Video,@genzfoodie,Spirifi,Behind the Scenes
+2023-12-01,YouTube,Positive,Medan,2815,Image,@kulinerhits,Spirifi,Product Launch
+2023-12-25,YouTube,Positive,Denpasar,9514,Video,@kulinerhits,Spirifi,Promo
+2023-12-25,TikTok,Positive,Jakarta,16466,Text,@kulinerhits,Spirifi,Collab
+2023-12-05,YouTube,Neutral,Surabaya,14129,Carousel,@snackattack,Spirifi,Promo
+2023-12-20,YouTube,Neutral,Medan,9169,Carousel,@drinkculture,Spirifi,Behind the Scenes
+2023-12-09,YouTube,Neutral,Jakarta,9836,Video,@snackattack,Spirifi,Collab
+2023-12-31,YouTube,Positive,Bandung,16400,Image,@kulinerhits,Spirifi,Collab
+2023-12-24,TikTok,Negative,Medan,17211,Carousel,@snackattack,Spirifi,Product Launch
+2023-12-28,TikTok,Positive,Bandung,12890,Carousel,@snackattack,Spirifi,Behind the Scenes
+2023-12-14,X/Twitter,Positive,Medan,11000,Text,@genzfoodie,Spirifi,Promo
+2023-12-04,Instagram,Neutral,Denpasar,4710,Text,@kulinerhits,Spirifi,Product Launch
+2023-12-19,TikTok,Positive,Surabaya,14840,Video,@snackattack,Spirifi,Promo
+2023-12-23,TikTok,Neutral,Medan,8810,Carousel,@tastebuds.id,Spirifi,Collab
+2023-12-07,TikTok,Positive,Makassar,13441,Carousel,@drinkculture,Spirifi,Promo
+2023-12-21,YouTube,Positive,Jakarta,10272,Text,@snackattack,Spirifi,Product Launch
+2023-12-31,X/Twitter,Positive,Bandung,7758,Video,@kulinerhits,Spirifi,Review
